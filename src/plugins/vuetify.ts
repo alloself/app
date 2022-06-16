@@ -1,6 +1,5 @@
 import "@mdi/font/css/materialdesignicons.css";
 import "vuetify/styles";
-import ru from "vuetify/lib/locale/ru";
 import { createVuetify, ThemeDefinition } from "vuetify";
 
 const appTheme: ThemeDefinition = {
